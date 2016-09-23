@@ -4,3 +4,4 @@ git is very good
 git is a version control system
 git git git
 lalalal
+添加远程仓库
